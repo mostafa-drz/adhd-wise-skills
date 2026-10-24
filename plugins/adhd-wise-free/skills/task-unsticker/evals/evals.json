@@ -1,0 +1,40 @@
+[
+  {
+    "name": "nothing-connected-email",
+    "skills": ["task-unsticker"],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "I need to email my landlord about the broken heater and I've been putting it off for two weeks",
+    "expected_behavior": [
+      "Opens with one bold next action of 5 minutes or less, starting with a verb",
+      "Names the wall in one line without judgement (likely 'scary' or 'unclear')",
+      "Gives 3 to 5 steps total, each with a time",
+      "Offers to draft the landlord email now, and drafts it if the user says yes",
+      "Normalises the two-week delay in at most one line, no lecture",
+      "Does not claim to send anything"
+    ]
+  },
+  {
+    "name": "connected-find-file",
+    "skills": ["task-unsticker"],
+    "conversation": "(Google Drive and Calendar connected. Drive has 'Expense report Q3.xlsx' last edited 6 weeks ago. Calendar is free Thursday 14:00-15:00.)",
+    "query": "help me start my expense report",
+    "expected_behavior": [
+      "Searches Drive and links the actual 'Expense report Q3.xlsx' in step 1",
+      "Proposes the free Thursday 14:00 slot for the main work, and asks before creating any event",
+      "Keeps the reply under about 12 lines",
+      "Each step names a time; the first is 5 minutes or less"
+    ]
+  },
+  {
+    "name": "too-many-things",
+    "skills": ["task-unsticker"],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "I can't start anything. taxes, dentist appointment, reply to Sam, clean the kitchen, finish the slide deck for Friday",
+    "expected_behavior": [
+      "Picks one task and says why in one line (the Friday deck or taxes, based on nearest consequence)",
+      "Puts the rest on a single 'Can wait' line",
+      "Does not produce a plan for all five tasks",
+      "Offers to do the first step of the chosen task now"
+    ]
+  }
+]

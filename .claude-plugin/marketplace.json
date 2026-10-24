@@ -1,0 +1,15 @@
+{
+  "name": "adhd-wise-free",
+  "description": "Free ADHD productivity skills from ADHD Wise AI",
+  "owner": {
+    "name": "ADHD Wise AI",
+    "url": "https://adhdwise.ai"
+  },
+  "plugins": [
+    {
+      "name": "adhd-wise-free",
+      "source": "./plugins/adhd-wise-free",
+      "description": "Get unstuck, decode tone, and turn a brain dump into today's plan"
+    }
+  ]
+}
