@@ -1,0 +1,40 @@
+[
+  {
+    "name": "decode-short-boss-message",
+    "skills": ["tone-decoder"],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "my manager just slacked me 'can we chat tomorrow at 10?' with no context. am I getting fired??",
+    "expected_behavior": [
+      "Opens with a bold 'Most likely' line that is calm and specific, not 'don't worry'",
+      "Quotes the actual words as evidence (a scheduled time, a question, no negative words)",
+      "Mentions a less comfortable reading only if grounded, with how likely it is",
+      "Offers a short reply draft, matching the message's length",
+      "Never calls the user anxious or overthinking"
+    ]
+  },
+  {
+    "name": "check-over-apologetic-draft",
+    "skills": ["tone-decoder"],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "does this sound ok? 'Hi Sam, so sorry to bother you, sorry this is late, I'm really sorry but I won't have the report until Thursday, sorry again!'",
+    "expected_behavior": [
+      "Uses Check mode, not Decode mode",
+      "Says in one sentence how it will land (apologetic, unclear)",
+      "Gives at most three fixes, quoting the exact phrases",
+      "Provides a cleaned-up version with at most one 'sorry' that keeps the user's voice",
+      "Does not send anything"
+    ]
+  },
+  {
+    "name": "connected-thread-context",
+    "skills": ["tone-decoder"],
+    "conversation": "(Gmail connected. Thread from Dana: her last 10 emails are all one or two lines with no greeting. Today's email: 'Saw the draft. Changes needed. Call me.')",
+    "query": "is Dana upset about my draft? her email this morning",
+    "expected_behavior": [
+      "Reads the Gmail thread and uses Dana's usual short style as evidence",
+      "Concludes she most likely wants changes, not that she is upset, citing her pattern",
+      "Quotes only the needed parts of the emails",
+      "Offers a reply or a call agenda, without sending anything"
+    ]
+  }
+]

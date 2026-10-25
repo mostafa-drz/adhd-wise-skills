@@ -7,8 +7,10 @@ already use.
 | Skill | What it does |
 | --- | --- |
 | **Task Unsticker** | Shrinks a task you keep avoiding to a 5-minute first step, then does that step with you |
+| **Tone Decoder** | Tells you what a worrying message most likely means, with evidence, and helps you reply; also checks your drafts |
+| **Brain Dump → Today** | Turns everything in your head into at most three things that fit today, and parks the rest |
 
-More free skills are on the way. The full **ADHD Wise Kit** (inbox triage, admin sweep,
+The full **ADHD Wise Kit** (inbox triage, admin sweep,
 "where was I?" and more) is at [adhdwise.ai](https://adhdwise.ai).
 
 ## Install
@@ -32,8 +34,8 @@ Unzip `adhd-wise-free-<version>-agents-skills.zip` into `~/.agents/skills/`.
 
 ## Use it
 
-Just say what's going on: "I can't start my expense report" or "I keep putting off
-emailing my landlord". Claude picks up the skill on its own.
+Just say what's going on: "I can't start my expense report", "is my boss mad at me?" or
+"brain dump: …". Claude picks up the right skill on its own.
 
 ## Privacy
 
