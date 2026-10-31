@@ -1,0 +1,28 @@
+[
+  {
+    "name": "messy-dump-no-connectors",
+    "skills": ["brain-dump-today"],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "ok brain dump: rent due tomorrow, call mom back, the Henderson proposal is due friday and I haven't started, dentist?, buy cat food (out tonight), reply to 4 slack threads, I feel like I'm behind on everything, renew passport sometime, fix bike",
+    "expected_behavior": [
+      "Opens with a bold 5-minute first step for priority 1",
+      "Picks at most three priorities, including paying rent and cat food tonight, with times",
+      "States the assumed 3 free hours since no calendar is connected",
+      "Batches small items into one 'small stuff' block",
+      "Parks the rest in one line without judgement",
+      "Acknowledges 'behind on everything' kindly in one line without turning it into a task"
+    ]
+  },
+  {
+    "name": "calendar-limits-the-plan",
+    "skills": ["brain-dump-today"],
+    "conversation": "(Google Calendar connected: meetings 9-12 and 13-16 today, so 2 free hours.)",
+    "query": "help me plan today: finish slides for client, expense report, call plumber, write blog post, review Jo's PR",
+    "expected_behavior": [
+      "Reads the calendar and plans around about 2 free hours",
+      "Cuts to one or two priorities so the padded total fits the free time",
+      "Offers to add focus blocks and does not create events without a yes",
+      "Parks the rest and says plainly that parked is not failed"
+    ]
+  }
+]
