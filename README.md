@@ -13,12 +13,12 @@ already use.
 The full **ADHD Wise Kit** (inbox triage, admin sweep,
 "where was I?" and more) is at [adhdwise.ai](https://adhdwise.ai).
 
-## Install
+## Install (about 2 minutes)
 
 **Claude Desktop, claude.ai or Cowork** (Pro plan or higher)
 
-1. Download `adhd-wise-free-<version>.zip` from [Releases](../../releases).
-2. In Claude, open **Customize → Plugins → Add → Upload plugin** and choose the zip.
+1. In Claude, open **Customize → Plugins → Add → Add marketplace**.
+2. Enter `mostafa-drz/adhd-wise-skills` and install **ADHD Wise (free)**.
 3. Make sure **Code execution and file creation** is on in Settings.
 
 **Claude Code**
@@ -30,7 +30,16 @@ The full **ADHD Wise Kit** (inbox triage, admin sweep,
 
 **Codex, Cursor, GitHub Copilot, Gemini CLI**
 
-Unzip `adhd-wise-free-<version>-agents-skills.zip` into `~/.agents/skills/`.
+```
+npx skills add mostafa-drz/adhd-wise-skills
+```
+
+Or copy the folders in `plugins/adhd-wise-free/skills/` into `~/.agents/skills/`.
+
+## Two more free skills
+
+**One Thing Today** and **Body Double** come by email when you sign up at
+[adhdwise.ai/toolkit](https://adhdwise.ai/toolkit).
 
 ## Use it
 

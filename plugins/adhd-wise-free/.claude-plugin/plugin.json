@@ -1,7 +1,7 @@
 {
   "name": "adhd-wise-free",
   "displayName": "ADHD Wise (free)",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Productivity skills designed by and for ADHD brains: get unstuck, decode tone, and turn a brain dump into today's plan.",
   "author": {
     "name": "ADHD Wise AI",
@@ -10,5 +10,14 @@
   "homepage": "https://adhdwise.ai",
   "repository": "https://github.com/mostafa-drz/adhd-wise-skills",
   "license": "MIT",
-  "keywords": ["adhd", "productivity", "focus", "executive-function", "task-breakdown"]
+  "keywords": [
+    "adhd",
+    "productivity",
+    "focus",
+    "executive-function",
+    "task-breakdown"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/mostafa-drz/adhd-wise-skills#readme",
+  "supportUrl": "https://github.com/mostafa-drz/adhd-wise-skills/issues"
 }
