@@ -1,7 +1,7 @@
 # ADHD Wise skills (free)
 
 Free productivity skills for Claude, designed by and for ADHD brains, from
-[ADHD Wise AI](https://adhdwise.ai). No new app to abandon: they work inside the AI you
+[ADHD Wise AI](https://www.adhdwiseai.com). No new app to abandon: they work inside the AI you
 already use.
 
 | Skill | What it does |
@@ -11,7 +11,7 @@ already use.
 | **Brain Dump → Today** | Turns everything in your head into at most three things that fit today, and parks the rest |
 
 The full **ADHD Wise Kit** (inbox triage, admin sweep,
-"where was I?" and more) is at [adhdwise.ai](https://adhdwise.ai).
+"where was I?" and more) is at [www.adhdwiseai.com](https://www.adhdwiseai.com).
 
 ## Install (about 2 minutes)
 
@@ -39,7 +39,7 @@ Or copy the folders in `plugins/adhd-wise-free/skills/` into `~/.agents/skills/`
 ## Two more free skills
 
 **One Thing Today** and **Body Double** come by email when you sign up at
-[adhdwise.ai/toolkit](https://adhdwise.ai/toolkit).
+[www.adhdwiseai.com/toolkit](https://www.adhdwiseai.com/toolkit).
 
 ## Use it
 

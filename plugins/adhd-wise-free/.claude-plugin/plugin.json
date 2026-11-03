@@ -1,13 +1,13 @@
 {
   "name": "adhd-wise-free",
   "displayName": "ADHD Wise (free)",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Productivity skills designed by and for ADHD brains: get unstuck, decode tone, and turn a brain dump into today's plan.",
   "author": {
     "name": "ADHD Wise AI",
-    "url": "https://adhdwise.ai"
+    "url": "https://www.adhdwiseai.com"
   },
-  "homepage": "https://adhdwise.ai",
+  "homepage": "https://www.adhdwiseai.com",
   "repository": "https://github.com/mostafa-drz/adhd-wise-skills",
   "license": "MIT",
   "keywords": [
