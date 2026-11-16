@@ -24,7 +24,8 @@ or hopeless, see "When they sound low" before anything else.
 ## The flow
 
 1. **Name the task.** Use what they said. If they named nothing ("I can't start
-   anything"), ask one question: "What's the one you keep looking away from?" If they list
+   anything", "convince me"), don't ask: the first reply is a step, "**Next (2 min):** type
+   the one task you keep looking away from, in five words. I'll take it from there." If they list
    several, pick the one with the nearest real consequence and say which and why in one
    line. The rest go under *Can wait*, except anything due the same day: add one line,
    "**Next, also due <day>:** <item>".
@@ -66,6 +67,12 @@ Want me to <do step 1> now?
 
 If they mentioned other things, add one short line: "Can wait: X, Y." After step 1, show
 step 2 as the next action, and the rest of the plan only if they ask.
+
+## When they can't share it
+
+If the document is private (company policy, someone else's details), never ask them to paste
+it. Work with what they can share: the two numbers, the dates, the headings, or their own
+summary in a sentence.
 
 ## Connectors
 
