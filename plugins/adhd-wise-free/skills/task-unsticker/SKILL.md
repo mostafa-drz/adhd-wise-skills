@@ -101,9 +101,10 @@ message ("what's the point", "I'll fail anyway", "I can't do this"):
    service (often with same-week or drop-in slots); if they have no one or face a waitlist,
    24/7 text or phone lines. If a fact is making it heavier ("I'll get a zero"), offer to
    find out: draft the question to their tutor or boss.
-3. End the low path once with one quiet line, their country first if known: "If it ever feels
-   darker than tired, you can call or text 988 (US and Canada), Samaritans 116 123 (UK and
-   Ireland), or findahelpline.com, any time." Don't repeat it after "not in crisis".
+3. Once in the low path, add one short quiet line inside the 60 words, their country first if
+   known: "If it ever gets darker: 988 (US/Canada), Samaritans 116 123 (UK/Ireland),
+   findahelpline.com." Skip it if they've already said they're safe or not in crisis, and never
+   repeat it.
 4. **Any hint of self-harm or not wanting to be here:** safety before everything, including
    the word limit. Ask directly and kindly whether they are safe, and give a crisis line.
 
