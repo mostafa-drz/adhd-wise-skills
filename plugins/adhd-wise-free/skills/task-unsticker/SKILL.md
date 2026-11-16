@@ -17,13 +17,17 @@ Starting is the hard part, not the task. This skill shrinks the task until the f
 is too small to resist, then does that step *with* the person, in this conversation.
 
 Rules for every reply: one next action first, five items at most, no shame, plain words.
+**The first reply is under 60 words: the next step with its time, one line on why it's
+sticky, and the offer to do it.** The rest of the plan comes after step 1. If they sound low
+or hopeless, see "When they sound low" before anything else.
 
 ## The flow
 
 1. **Name the task.** Use what they said. If they named nothing ("I can't start
    anything"), ask one question: "What's the one you keep looking away from?" If they list
    several, pick the one with the nearest real consequence and say which and why in one
-   line. The rest go under *Can wait*.
+   line. The rest go under *Can wait*, except anything due the same day: add one line,
+   "**Next, also due <day>:** <item>".
 2. **Find the wall.** In one short line, guess what makes it heavy: unclear first step,
    too big, boring, scary (someone might be upset or judge it), or missing information.
    This picks the kind of first step:
@@ -32,34 +36,34 @@ Rules for every reply: one next action first, five items at most, no shame, plai
    - boring → the first step is a timed 5-minute sprint
    - scary → the first step is a rough draft nobody sees
    - missing information → the first step is finding the one fact or asking one person
-3. **Break it down.** Three to five steps, each a concrete action with a verb and a time
+3. **Break it down** (show it after step 1, not in the first reply). Three to five steps, each a concrete action with a verb and a time
    ("Open the tax folder and find last year's return, 3 min"). The first step is
    **5 minutes or less** and needs no further thinking.
 4. **Offer to do step 1 now.** This is the point of the skill. Match the step:
    - writing (email, message, document): draft it now, rough on purpose
    - planning: write the outline or checklist now
-   - finding something: search the connected Drive, Gmail or files for it, and give the link
+   - finding something: search the connected Drive, Gmail or files for it, and give the link.
+     If it's on paper or nothing is connected, the step is the physical move: "Take only
+     the airline letter out of the drawer and put it by the kettle."
    - scheduling: propose a time from the connected calendar
    - a phone call: write the three sentences to say
 5. **Close small.** After step 1, say what was done in one line and give step 2 as the next
    action. Never make them read the full plan again.
 
-## What the reply looks like
+## What the first reply looks like
+
+Under 60 words:
 
 ```
 **Next (5 min):** <first step, starting with a verb>
 
 Why it's sticky: <one line, no judgement>
 
-Then:
-2. <step> (<time>)
-3. <step> (<time>)
-
 Want me to <do step 1> now?
 ```
 
-Keep the whole reply under about 12 lines. If there are things they mentioned that can
-wait, add one line: "Can wait: X, Y."
+If they mentioned other things, add one short line: "Can wait: X, Y." After step 1, show
+step 2 as the next action, and the rest of the plan only if they ask.
 
 ## Connectors
 
@@ -72,12 +76,36 @@ person confirms.
 
 ## Tone
 
-- Celebrate the start, not the finish: "That's the hard part done."
-- If they say they've been avoiding it for weeks, normalise it in one line ("Totally
-  normal, a lot of tasks look like that from the outside") and move on.
+- Celebrate what they did, not what Claude did. If Claude wrote the draft, say "It's ready
+  when you are", not "That's the hard part done".
+- If they say they've been avoiding it for weeks, normalise it in a few words inside the
+  "why it's sticky" line, not as an extra sentence.
+- If they challenge it ("convince me"), don't argue: the first step is the answer. Add at
+  most one line: "No setup, nothing saved outside this chat. Here's your first step."
+- If they ask what's remembered: nothing is saved outside this chat unless they ask Claude to
+  remember something.
 - No lectures about procrastination, no productivity systems, no "just".
-- If they say they feel low or hopeless rather than stuck, slow down, be kind, and suggest
-  talking to someone they trust or a professional. This skill is not medical advice.
+
+## When they sound low
+
+Low comes before the task, even when they also name a task. Watch for it from the first
+message ("what's the point", "I'll fail anyway", "I can't do this"):
+
+1. **First reply** (under 60 words): the feeling, in at most two short sentences; one soft
+   step with a choice ("If it helps, 2 min: some water. Or, if the work would feel better,
+   one tiny bit of it together."); one question, asked once: "How are you doing right now?"
+2. **Next reply** (also under 60 words): pick up their words. If they still sound low, name
+   one real route: someone they trust, their doctor, or a campus or workplace support
+   service (often with same-week or drop-in slots); if they have no one or face a waitlist,
+   24/7 text or phone lines. If a fact is making it heavier ("I'll get a zero"), offer to
+   find out: draft the question to their tutor or boss.
+3. End the low path once with one quiet line, their country first if known: "If it ever feels
+   darker than tired, you can call or text 988 (US and Canada), Samaritans 116 123 (UK and
+   Ireland), or findahelpline.com, any time." Don't repeat it after "not in crisis".
+4. **Any hint of self-harm or not wanting to be here:** safety before everything, including
+   the word limit. Ask directly and kindly whether they are safe, and give a crisis line.
+
+This skill is a productivity tool, not medical advice or treatment.
 
 ## Help
 
