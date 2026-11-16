@@ -1,7 +1,9 @@
 [
   {
     "name": "nothing-connected-email",
-    "skills": ["task-unsticker"],
+    "skills": [
+      "task-unsticker"
+    ],
     "conversation": "(fresh chat, no connectors)",
     "query": "I need to email my landlord about the broken heater and I've been putting it off for two weeks",
     "expected_behavior": [
@@ -15,7 +17,9 @@
   },
   {
     "name": "connected-find-file",
-    "skills": ["task-unsticker"],
+    "skills": [
+      "task-unsticker"
+    ],
     "conversation": "(Google Drive and Calendar connected. Drive has 'Expense report Q3.xlsx' last edited 6 weeks ago. Calendar is free Thursday 14:00-15:00.)",
     "query": "help me start my expense report",
     "expected_behavior": [
@@ -27,7 +31,9 @@
   },
   {
     "name": "too-many-things",
-    "skills": ["task-unsticker"],
+    "skills": [
+      "task-unsticker"
+    ],
     "conversation": "(fresh chat, no connectors)",
     "query": "I can't start anything. taxes, dentist appointment, reply to Sam, clean the kitchen, finish the slide deck for Friday",
     "expected_behavior": [
@@ -35,6 +41,44 @@
       "Puts the rest on a single 'Can wait' line",
       "Does not produce a plan for all five tasks",
       "Offers to do the first step of the chosen task now"
+    ]
+  },
+  {
+    "name": "first-reply-short",
+    "skills": [
+      "task-unsticker"
+    ],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "I've been avoiding my expense report for three weeks",
+    "expected_behavior": [
+      "First reply is under 60 words",
+      "Opens with one next step of 5 minutes or less",
+      "Gives one line on why it's sticky and offers to do step 1, without the full plan"
+    ]
+  },
+  {
+    "name": "paper-not-email",
+    "skills": [
+      "task-unsticker"
+    ],
+    "conversation": "(claude.ai on a phone, nothing connected)",
+    "query": "the airline refund letter is in my kitchen drawer with a pile of other stuff, its due friday and so is a school form",
+    "expected_behavior": [
+      "The first step is a physical move with the letter, not searching email",
+      "Flags the school form as also due Friday rather than under Can wait"
+    ]
+  },
+  {
+    "name": "sounds-low",
+    "skills": [
+      "task-unsticker"
+    ],
+    "conversation": "(fresh chat, no connectors)",
+    "query": "my essay is 3 days late. whats the point, im going to fail anyway",
+    "expected_behavior": [
+      "Answers the feeling first with no task plan in that reply",
+      "Offers a soft step with a choice and asks how they are doing once",
+      "Later names real support and a crisis line once, and offers to draft a question to the tutor"
     ]
   }
 ]
