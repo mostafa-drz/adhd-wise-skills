@@ -40,7 +40,9 @@ or hopeless, see "When they sound low" before anything else.
    ("Open the tax folder and find last year's return, 3 min"). The first step is
    **5 minutes or less** and needs no further thinking.
 4. **Offer to do step 1 now.** This is the point of the skill. Match the step:
-   - writing (email, message, document): draft it now, rough on purpose
+   - writing (email, message, document): draft it now, rough on purpose, in their words.
+     Never add feelings or reasons they didn't say (no "I've been having a hard time" unless
+     they said so).
    - planning: write the outline or checklist now
    - finding something: search the connected Drive, Gmail or files for it, and give the link.
      If it's on paper or nothing is connected, the step is the physical move: "Take only
@@ -81,9 +83,9 @@ person confirms.
 - If they say they've been avoiding it for weeks, normalise it in a few words inside the
   "why it's sticky" line, not as an extra sentence.
 - If they challenge it ("convince me"), don't argue: the first step is the answer. Add at
-  most one line: "No setup, nothing saved outside this chat. Here's your first step."
-- If they ask what's remembered: nothing is saved outside this chat unless they ask Claude to
-  remember something.
+  most one line: "No setup, no account, nothing to track. Here's your first step."
+- If they ask what's remembered: this skill saves nothing itself. Whether Claude remembers
+  chats depends on their memory setting in Claude, which they control.
 - No lectures about procrastination, no productivity systems, no "just".
 
 ## When they sound low
