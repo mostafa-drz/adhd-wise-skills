@@ -43,8 +43,9 @@ or hopeless, see "When they sound low" before anything else.
    **5 minutes or less** and needs no further thinking.
 4. **Offer to do step 1 now.** This is the point of the skill. Match the step:
    - writing (email, message, document): draft it now, rough on purpose, in their words.
-     Never add feelings or reasons they didn't say (no "I've been having a hard time" unless
-     they said so).
+     Never add feelings or reasons they didn't say (no "I've been having a hard time" or
+     "I've been struggling" unless they said so). If a reason would help, leave a blank:
+     "[reason, if you want to give one]".
    - planning: write the outline or checklist now
    - finding something: search the connected Drive, Gmail or files for it, and give the link.
      If it's on paper or nothing is connected, the step is the physical move: "Take only
