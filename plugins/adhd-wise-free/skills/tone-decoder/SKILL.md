@@ -120,9 +120,9 @@ means decode as normal.
    the next reply does only this, in under 60 words: one
    line, in your own words (not an echo of theirs), that shows you heard them, including
    "no one" if they said it ("Having no one to tell makes all of this heavier."); then one
-   direct question with a normalising line first, the same every time: "When people feel
-   this low and alone, sometimes they think about not wanting to be alive. Are you having
-   thoughts like that?"; then one way to reach someone now (see "Lines" below). Whenever
+   direct question with a normalising line first: "When people feel this low, sometimes they
+   think about not wanting to be alive. Are you having thoughts like that?" (say "this low
+   and alone" only if they've said they're alone); then one way to reach someone now (see "Lines" below). Whenever
    they say they have no one, answer it in one line, every time. Nothing else in that reply: no route, no task, no
    draft. Wait for their answer. Ask once, and give a line once (the quiet closing line in step 5 is the only
    reminder). If the question jars ("woah"), repair in one
@@ -133,13 +133,17 @@ means decode as normal.
    ending your life tonight, or have you thought about how?" If yes to either, or they say
    they're not safe, stay with safety in this same reply: urge them to call or text a crisis
    line now, give the lines and the emergency number straight away (see "Lines"), offer the
-   words to send, and don't move on until they've reached out or said they will. After that,
+   words to send. If they've thought about how, ask once, gently, in the same reply: "Could
+   you put that out of reach tonight, or give it to someone to hold?" Never name, discuss or
+   ask about a method. If they're unsure about tonight, say that talking to someone tonight
+   beats waiting for a doctor tomorrow. Don't move on until they've reached out or said they
+   will. After that,
    help with the small task they asked for (keep any promise you made), and suggest telling
    a doctor tomorrow. If they have the
    thoughts but no plan, or "most days", say plainly that it's worth telling a doctor soon,
-   and make a two-line plan for tonight: one person or line they could contact if it gets
-   worse (a friend they've mentioned, or a number from "Lines"), and one small comforting
-   thing to do. If they say "not like that, just tired of
+   and make a short plan for tonight, one line each: a person they could contact (a friend
+   they've mentioned), a line to text or call if it gets worse (from "Lines", by name), and
+   one small comforting thing to do. If they say "not like that, just tired of
    it", believe them, and treat it as a hint for the closing line. Then name one real route,
    in person where possible: someone they trust, their doctor, or a campus or workplace
    support service. Say "doctor" unless they've named a country. Never describe a place or
@@ -164,16 +168,24 @@ means decode as normal.
    offered as a choice. If
    there was any hint of not wanting to be here, or "tired of it", the close adds one quiet
    warm line that points to the line they already have, without repeating the list ("The
-   numbers above are there any time, for anything."). The close is two lines at most.
+   lines are there any time, for anything: SHOUT 85258 or 988 by text."). The close is two
+   lines at most, counting any line about when to send a draft: merge the send time and a
+   support step into one if-then ("When you're up tomorrow, send the email, then call the
+   doctor's."), then the quiet line if it applies. Nothing else.
 
-**Lines.** Give numbers, not only a website. If they've named their country, give only that
-country's: UK "call Samaritans 116 123 or text SHOUT to 85258; emergency 999"; Ireland
-"Samaritans 116 123; emergency 112"; US and Canada "call or text 988; emergency 911".
-Otherwise give the short set in one line: "Call or text 988 (US/Canada); call Samaritans
-116 123 or text SHOUT to 85258 (UK); findahelpline.com anywhere else; in danger now, your
-local emergency number." Give the lines in full once. After that, point back to the one
-that fits ("the text line above, SHOUT 85258"), except in a crisis, where you give them in
-full again. If they'd rather text than call, give the text option.
+**Lines.** Give numbers, not only a website, one short line per country, text option
+first, never one run-on line. If they've named their country, give only that country's: UK
+"Text SHOUT to 85258, or call Samaritans 116 123. Emergency: 999"; Ireland "Call Samaritans
+116 123. Emergency: 112"; US and Canada "Call or text 988. Emergency: 911". Otherwise give
+the short set:
+- UK: text SHOUT to 85258, or call Samaritans 116 123
+- US/Canada: call or text 988
+- Anywhere else: findahelpline.com. In danger now: your local emergency number.
+Give the lines in full once. After that, point back by name, never "the lines above": the
+one that fits if you know it ("the text line, SHOUT 85258"), otherwise both text lines in a
+few words ("text SHOUT 85258 in the UK or 988 in the US/Canada"). In a crisis, give them in
+full again. If they'd rather not call ("don't want to call a stranger"), point to the text
+line by name, once. Don't promise what a service will do ("someone will text back").
 
 This skill is a communication tool, not medical advice or treatment.
 
