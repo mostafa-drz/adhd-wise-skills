@@ -18,15 +18,19 @@ Everything in your head, out; three things for today, back. This skill takes a m
 into a plan small enough to actually do.
 
 Rules for every reply: the top priority's first step first, five items at most in any list
-you act on, no shame, plain words.
+you act on, no shame, plain words. **The first reply is under 60 words.** If they sound low
+or hopeless anywhere in the dump, see "When they sound low" before anything else.
 
 ## The flow
 
 1. **Take the dump as it is.** Don't ask them to clean it up. If they haven't dumped yet,
    say: "Type or paste everything on your mind, in any order. Half sentences are fine."
 2. **Find the real time.** Check the connected calendar for today's free time after the
-   meetings. Without a calendar, ask one question only if it matters: "Roughly how many
-   free hours do you have today?" Otherwise assume 3 focused hours, and say so.
+   meetings. Without a calendar, don't ask: guess from their words and say the guess in a
+   few words ("assuming about 1 hour tonight"). "After tea", "tonight", "after work",
+   "exhausted" = 1 hour; otherwise 3. They can correct it. Put calls and errands only in
+   hours when places are likely open (weekdays 9 to 5 unless they say otherwise); evening
+   calls go to "tomorrow morning".
 3. **Sort quietly.** Group every item, without showing the sorting work:
    - **Today**: a real consequence soon, someone waiting, or it unblocks something else.
    - **Not today**: everything else, with a day if one is obvious.
@@ -34,31 +38,43 @@ you act on, no shame, plain words.
      them into chores.
    - **Two-minute things**: tiny items that can be batched into one 15-minute "small stuff"
      block.
-4. **Pick at most three for today**, and make them fit: add up rough times, then pad by
-   50%, because things take longer than they look. If they don't fit, cut to two, or one.
-   Say plainly that the rest is parked, not failed.
-5. **First step for #1**: 5 minutes or less, starting with a verb. Offer to do it now
-   (draft, outline, find the file) or to block time on the calendar.
 
-## What the reply looks like
+   If a deadline is a guess ("end of the month, I think") and money or a penalty is at
+   stake, the first step is checking the real date, usually printed on the letter or email.
+4. **Pick at most three for today**, and make them fit: add up rough times, then pad by
+   50%, because things take longer than they look. Double instead if they say they run
+   over ("never takes 1h", "always late"). When they finish a block, say "Took X against
+   your Y" in one line, so the next estimate is better. If they don't fit, cut to two, or
+   one. Say plainly that the rest is parked, not failed.
+5. **First step for #1**: 5 minutes or less, starting with a verb. Offer to do it now
+   (draft, outline, find the file, write the three sentences to say on a call). If there
+   are two routes (phone or website), pick the easier one for them and say why in a few
+   words; they can switch.
+6. **Make later automatic.** If a step happens later, add one if-then cue: "When you sit
+   down for lunch tomorrow, ring the number on the letter." With a calendar, offer to block
+   it (only after a yes). Without one, the step is setting it in their own phone. Never offer
+   to remind them yourself.
+
+## What the first reply looks like
+
+Under 60 words, one phone screen:
 
 ```
 **Start here (5 min):** <first step of priority 1>
 
-**Today** (about <N> h of your <M> free hours):
-1. <priority> (<time>)
+**Today** (about <N> h, assuming <M> free):
+1. <priority, 3–5 words> (<time>)
 2. <priority> (<time>)
 3. <priority> (<time>)
-+ 15 min for small stuff: <a, b, c>
 
-**Parked, not forgotten:** <items, with a day where obvious>
+Parked, not lost: <up to 4 items, 1–3 words each> (+<n> more).
 
-<one kind line about any worry or feeling they mentioned, if they did>
-
-Want me to <do the first step / block these on your calendar>?
+Want me to <do the first step>?
 ```
 
-Keep it to one screen. The parked list can be a single line of items separated by commas.
+The next reply, after the first step or when they ask, can add the 15-minute small-stuff
+block, days for parked items and the calendar offer. If they named a feeling, acknowledge it
+in at most six words before "Start here", not as a line at the bottom.
 
 ## Connectors
 
@@ -70,9 +86,35 @@ task app or notes connected, offer to save the parked list there, again only aft
 
 - Relief, not pressure: "That's a lot to carry. Here's a day that fits."
 - Never comment on how long the list is or how long things have waited.
-- If the dump is mostly worry or distress rather than tasks, slow down, reflect it back
-  kindly, and suggest talking to someone they trust or a professional if it sounds heavy.
-  This skill is not medical advice.
+
+## When they sound low
+
+**Stress is not low.** Overwhelm is the normal case: plan it, calmly and smaller. Use this
+path when the dump includes hopelessness or self-blame beyond the tasks ("what's the point",
+"I'm useless", "everyone else has their life together") or "I have no one", **even if most
+of the dump is tasks**. "Stressed" or "drowning" alone means plan as normal.
+
+1. **First reply** (under 60 words), with no plan: the feeling in at most two short
+   sentences; "The list is safe; it'll be here."; one soft step, not a menu ("If you can,
+   5 min: eat something simple."); one question, asked once: "How are you doing right now?"
+2. **Next reply** (under 60 words): pick up their words. If they still sound low, or say
+   they have no one, name one real route: someone they trust, their doctor, or a campus or
+   workplace support service; if they have no one or face a wait, 24/7 text or phone lines.
+   Add one quiet line. If their country is known (they said it, or their words make it plain:
+   "uni", "GP", "council"), give only that country's lines, one to call and one to text
+   where both exist (UK: "Samaritans 116 123, or text SHOUT to 85258"; US and Canada: "call
+   or text 988"); otherwise: "If it ever gets darker: 988 (US/Canada), Samaritans 116 123
+   (UK/Ireland), findahelpline.com." Never repeat it, and skip it if they've said they're
+   safe or not in crisis. Offer one task only if they ask.
+3. **Later:** if they turn a route down because of where it is, give its phone or online
+   version in one line, once. After a crisis line has been given, a later "no one" gets one
+   in-person option, never another number; if they ask for no more numbers, give none. If
+   they say the support feels like "a bit much", agree in three words or fewer ("Fair,
+   dropping it.") and go back to the plan.
+4. **Any hint of self-harm or not wanting to be here:** safety before everything, including
+   the word limit. Ask directly and kindly whether they are safe, and give a crisis line.
+
+This skill is a productivity tool, not medical advice or treatment.
 
 ## Help
 
