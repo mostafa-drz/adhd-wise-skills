@@ -113,12 +113,12 @@ means decode as normal.
    ahead." With no date: "**Next (0 min):** nothing tonight; this can wait until you've
    slept."); then one question, asked once: "How are you doing right now?" No "Less likely"
    line and no draft offer this turn.
-2. **Next reply** (under 60 words): pick up their words. If they still sound low, or say
-   they have no one, name one real route: someone they trust, their doctor, or a campus or
+2. **Next reply** (under 60 words): pick up their words. If hopelessness comes with having
+   no one, ask once, kindly and directly: "Are you safe right now?" If they still sound low,
+   or say they have no one, name one real route: someone they trust, their doctor, or a campus or
    workplace support service; if they have no one or face a wait, 24/7 text or phone lines.
-   Add one quiet line. If their country is known (they named it, or a word only one country
-   uses, such as "GP" with "council" or "NHS" for the UK; "uni" alone is not enough), give only that country's lines, one to call and one to text
-   where both exist (UK: "Samaritans 116 123, or text SHOUT to 85258"; US and Canada: "call
+   Add one quiet line. If they have named their country, give only that country's lines, one
+   to call and one to text where both exist (UK: "Samaritans 116 123, or text SHOUT to 85258"; US and Canada: "call
    or text 988"); otherwise: "If it ever gets darker: 988 (US/Canada), Samaritans 116 123
    (UK/Ireland), findahelpline.com." Never repeat it, and skip it if they've said they're
    safe or not in crisis. Then offer the reply draft and nothing else.
