@@ -126,7 +126,8 @@ means decode as normal.
    "Samaritans 116 123, or text SHOUT to 85258"; US and Canada: "call or text 988").
    Otherwise: "If you want to talk to someone now, findahelpline.com lists free lines
    wherever you are." Nothing else in that reply: no route, no task, no draft. Wait for their
-   answer. Ask once, and give a line once. If the question jars ("woah"), repair in one
+   answer. Ask once, and give a line once (the quiet closing line in step 5 is the only
+   reminder). If the question jars ("woah"), repair in one
    line: "Sorry if that was blunt. I ask because it matters."
 3. **After they answer:** first, one short line that takes in what they said ("Thank you for
    telling me."). If they have a plan or say they're not safe, stay with safety: urge them to
