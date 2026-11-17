@@ -74,8 +74,9 @@ Two quotes at most in the first reply. If they want more evidence, they'll ask.
    went wrong.
 6. **Next (1 min):** copy it and send it, or tell me what's off.
 
-End every Check session, including a privacy answer, with one line that makes coming back
-easy: "Paste the next one whenever it's bugging you."
+Once per session, when the conversation is wrapping up (a later reply, such as a privacy
+answer), end with one line that makes coming back easy: "Paste the next one whenever it's
+bugging you." Never repeat it, and keep the timed **Next** line last in the first reply.
 
 ## Connectors
 
